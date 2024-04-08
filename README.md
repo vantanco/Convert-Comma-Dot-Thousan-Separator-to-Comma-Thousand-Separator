@@ -4,9 +4,9 @@ Find number in string and convert Comma Dot Thousanđ Separator to Comma Thousan
 # Data test
 ``` python
 text = """
-1.234,56
-12.345,67
-123.456,78
+I have 1.234,56
+12.345,67 Going
+Something 123.456,78
 10,45
 0
 10.45
